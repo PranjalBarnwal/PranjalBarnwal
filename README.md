@@ -1,48 +1,52 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Pranjal Barnwal</h1>
 
-###
+<p align="left">Engineer by training, minimalist by choice, programmer at heart — and currently making some noise with a ukulele 🎸</p>
 
-<p align="left">I'm Pranjal Barnwal — a curious minimalist and a programmer from India.</p>
+---
 
-###
+## 🧠 About Me
 
-<h2 align="left">About me</h2>
+- 🚀 Web enthusiast exploring the world of AI/ML & systems design  
+- 🧩 Passionate about clean code, automation, and neural networks  
+- 🌱 Always learning — currently diving into generative programming  
+- 🛠️ Building tools to save time (and sanity)  
+- 🎸 Part-time developer, part-time ukulele warrior (still banned from jam nights 😅)
 
-###
+---
 
-<p align="left">
-🚀 Building things on the web, occasionally breaking them too<br>
-📚 Currently deep-diving into AI/ML & system design<br>
-🧠 Dreaming in neural networks and Git commits<br>
-🌱 Living light, learning more, growing every day<br>
-🎸 Also trying to tame a ukulele — my neighbors are *not* fans yet
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+## 💻 Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 </div>
 
-###
+---
 
-<h2 align="left">Let's Connect</h2>
+## 🧑‍💻 Experience
 
-<p align="left">
-Got an idea, feedback, or just want to vibe over tech, minimalism, or music?<br>
-📬 Drop a mail: <a href="mailto:pranjalbarnwaldev@gmail.com">pranjalbarnwaldev@gmail.com</a><br>
-🔗 Or find me wandering around here: <a href="https://www.linkedin.com/in/pranjal-barnwal-dev/" target="_blank">LinkedIn: pranjal-barnwal-dev</a><br>
-👀 Warning: May respond with code snippets or ukulele chords.
-</p>
+**💼 Software Engineering Intern @ [Pehchaan.me](https://pehchaan.me/)**  
+Developed Chrome extensions and backend features for a hiring automation platform. Automated resume parsing and improved recruiter workflows for faster candidate screening.
+
+**💼 Backend & Automation Intern @ [Pulsegen.io](https://pulsegen.io/)**  
+Built real-time dashboards and smart notification systems for marketing campaigns. Focused on backend reliability, async workflows, and feature scalability.
+
+---
+
+## 📬 Let's Connect
+
+Got a cool idea, tech talk, or want to trade code for ukulele lessons?
+
+- 📧 Email: [pranjalbarnwaldev@gmail.com](mailto:pranjalbarnwaldev@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/pranjal-barnwal-dev](https://www.linkedin.com/in/pranjal-barnwal-dev/)  
+
+---
+
+<p align="center">Thanks for stopping by — may your code compile and your strings stay tuned! 🚀</p>
