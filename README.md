@@ -34,11 +34,14 @@
 
 ## 🧑‍💻 Experience
 
+**💼 Software Development Engineer I @ [Pehchaan.me](https://pehchaan.me/)**  
+Making end to end product in agentic AI space for a client and contributing to Pehchaan's Tech.
+
 **💼 Software Engineering Intern @ [Pehchaan.me](https://pehchaan.me/)**  
 Developed Chrome extensions and backend features for a hiring automation platform. Automated resume parsing and improved recruiter workflows for faster candidate screening.
 
 **💼 Backend & Automation Intern @ [Pulsegen.io](https://pulsegen.io/)**  
-Built real-time dashboards and smart notification systems for marketing campaigns. Focused on backend reliability, async workflows, and feature scalability.
+Built dashboards for internal efficiency, worked with clustering and topic modeling. Also contributed in development of authentication and authorization system.
 
 ---
 
